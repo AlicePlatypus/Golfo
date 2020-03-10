@@ -2,6 +2,10 @@ body {
     overflow-x: hidden;
 }
 
+.texto__descripcion {
+    width: 400px;
+}
+
 .iconos__redes {
     color: white;
 }
