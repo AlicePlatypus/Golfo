@@ -1,3 +1,7 @@
+body {
+    overflow-x: none;
+}
+
 .iconos__redes {
     color: white;
 }
