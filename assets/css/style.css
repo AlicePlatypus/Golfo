@@ -2,6 +2,7 @@ body {
     overflow-x: hidden;
 }
 
+
 .texto__descripcion {
     width: 400px;
 }
@@ -9,3 +10,4 @@ body {
 .iconos__redes {
     color: white;
 }
+
